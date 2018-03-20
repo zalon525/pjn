@@ -10,4 +10,4 @@ Zadanie 1 - regexp
 
 - Wynik zadania 3: 2493 orzeczeń z odniesieniem do *artykułu 445 Ustawy z dnia 23 kwietnia 1964 r. - Kodeks cywilny*
 
-- Wynik zadania 4: 18562 orzeczeń ze słowem *szkoda*
+- Wynik zadania 4: 18724 orzeczeń ze słowem *szkoda*

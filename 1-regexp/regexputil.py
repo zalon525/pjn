@@ -109,4 +109,4 @@ act_regexp = re.compile(r"\bUstawa z dnia 23 kwietnia 1964 r\. - Kodeks cywilny\
 
 article_regexp = re.compile(r"\bart\. 445\b")
 
-szkoda_regexp = re.compile(r"\bszkod(?:a|y|zie|om|ę|ami|ach|o)\b|\bszkód\b", re.IGNORECASE)
+szkoda_regexp = re.compile(r"\bszkod(?:ą|a|y|zie|om|ę|ami|ach|o)\b|\bszkód\b", re.IGNORECASE)
