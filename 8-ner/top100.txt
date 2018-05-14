@@ -1,0 +1,100 @@
+złoty --- nam_oth_currency: 1113
+zamawiać --- nam_liv_person: 208
+sąd okręgowy --- nam_org_institution: 148
+dziennik . u . --- nam_pro_media_periodic: 133
+M --- nam_org_organization: 129
+sąd najwyższy --- nam_org_institution: 122
+sąd rejonowy --- nam_org_institution: 117
+odwoływać --- nam_liv_person: 101
+M --- nam_liv_person: 98
+skarb państwo --- nam_org_institution: 94
+J . P --- nam_liv_person: 66
+sąd --- nam_org_institution: 56
+krajowy izba odwoławczy --- nam_org_institution: 54
+Warszawa --- nam_loc_gpe_city: 53
+M . M --- nam_liv_person: 52
+prezes krajowy izba odwoławczy --- nam_org_institution: 42
+Dzieje_(Apostolskie) . u . --- nam_pro_media_periodic: 41
+sekunda . k --- nam_liv_person: 39
+J . sekunda --- nam_liv_person: 39
+wykonawca --- nam_liv_person: 39
+konsorcjum Blue Brain --- nam_org_organization: 39
+minister sprawiedliwość --- nam_org_institution: 37
+M . k --- nam_liv_person: 32
+J . bajt --- nam_liv_person: 25
+prawo zamówienie publiczny --- nam_pro_title_document: 25
+imienie rzeczpospolita polski dzień --- nam_org_institution: 24
+SIWZ --- nam_org_organization: 24
+zakład ubezpieczenie społeczny --- nam_org_institution: 23
+VAT --- nam_oth_tech: 22
+D . D --- nam_liv_person: 21
+Polska --- nam_loc_gpe_country: 21
+KRS --- nam_org_institution: 21
+M . L --- nam_liv_person: 20
+J --- nam_org_organization: 19
+najwyższy --- nam_liv_person: 18
+L --- nam_liv_person: 18
+konsorcjum Blue Brain --- nam_liv_person: 18
+P --- nam_org_organization: 17
+D --- nam_liv_person: 17
+fundusz ubezpieczenie społeczny --- nam_org_institution: 17
+VAT --- nam_oth_other: 17
+towarzystwo --- nam_loc_gpe_city: 17
+Pan --- nam_liv_god: 17
+J . N --- nam_liv_person: 17
+C --- nam_org_company: 16
+M --- nam_org_company: 16
+Radom --- nam_loc_gpe_city: 16
+C --- nam_org_organization: 15
+Krak --- nam_loc_gpe_city: 15
+szpital --- nam_org_institution: 15
+sekunda . bajt --- nam_liv_person: 15
+J . D --- nam_liv_person: 14
+zakład ubezpieczenie społeczny oddział --- nam_org_company: 14
+Wrocław --- nam_loc_gpe_city: 14
+GEOPLAN --- nam_org_company: 14
+sąd rejonowy dla Łódź --- nam_org_institution: 13
+J . k --- nam_liv_person: 13
+k . bajt --- nam_liv_person: 13
+ubezpieczeniowy fundusz gwarancyjny --- nam_org_organization: 13
+prezes rad minister --- nam_org_institution: 13
+D --- nam_org_organization: 13
+zakład ubezpieczenie społeczny oddział w L --- nam_org_institution: 13
+wymiana grunt --- nam_org_group_team: 13
+śródmieście --- nam_loc_gpe_city: 12
+J . M --- nam_liv_person: 12
+Katowice --- nam_loc_gpe_city: 12
+dziennik urzędowy --- nam_pro_media_periodic: 12
+unia europejski --- nam_org_organization: 12
+M . R --- nam_liv_person: 12
+sąd apelacyjny --- nam_org_institution: 11
+VAT --- nam_org_institution: 11
+M . sekunda --- nam_liv_person: 11
+Szczecin --- nam_loc_gpe_city: 11
+C --- nam_oth_tech: 10
+kodeks cywilny --- nam_pro_title_document: 10
+zakład --- nam_org_company: 10
+nowy_polski_złoty --- nam_oth_currency: 10
+ustawa o ubezpieczenie obowiązkowy --- nam_pro_title_document: 10
+fundusz praca --- nam_org_institution: 10
+rozporządzenie minister sprawiedliwość --- nam_pro_title_document: 9
+sąd i instancja --- nam_org_institution: 9
+sąd okręgowy w Łódź --- nam_org_institution: 9
+bank sekunda . a . --- nam_org_company: 9
+wspólnota mieszkaniowy --- nam_org_organization: 9
+M . C --- nam_liv_person: 9
+a . sekunda --- nam_liv_person: 9
+KRS --- nam_org_organization: 9
+lider konsorcjum --- nam_liv_person: 9
+M . N --- nam_liv_person: 9
+konsorcjum Blue Brain --- nam_org_company: 9
+Wałbrzych --- nam_loc_gpe_city: 9
+sąd --- nam_org_company: 8
+sekunda . R --- nam_liv_person: 8
+zakład --- nam_loc_gpe_city: 8
+Lublin --- nam_loc_gpe_city: 8
+D --- nam_oth_tech: 8
+samorządowy kolegium odwoławczy --- nam_org_institution: 8
+gmin Gorzyce --- nam_org_group_team: 8
+gmin Korfantów --- nam_org_group_team: 8
+Korfanty --- nam_loc_gpe_city: 8

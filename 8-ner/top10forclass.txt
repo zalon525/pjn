@@ -1,0 +1,94 @@
+nam_oth:
+	złoty (nam_oth_currency) --- 1113
+	VAT (nam_oth_tech) --- 22
+	VAT (nam_oth_other) --- 17
+	C (nam_oth_tech) --- 10
+	nowy_polski_złoty (nam_oth_currency) --- 10
+	D (nam_oth_tech) --- 8
+	euro (nam_oth_currency) --- 7
+	DVD (nam_oth_tech) --- 5
+	NBP (nam_oth_tech) --- 3
+	KRS (nam_oth_tech) --- 3
+nam_liv:
+	zamawiać (nam_liv_person) --- 208
+	odwoływać (nam_liv_person) --- 101
+	M (nam_liv_person) --- 98
+	J . P (nam_liv_person) --- 66
+	M . M (nam_liv_person) --- 52
+	sekunda . k (nam_liv_person) --- 39
+	J . sekunda (nam_liv_person) --- 39
+	wykonawca (nam_liv_person) --- 39
+	M . k (nam_liv_person) --- 32
+	J . bajt (nam_liv_person) --- 25
+nam_org:
+	sąd okręgowy (nam_org_institution) --- 148
+	M (nam_org_organization) --- 129
+	sąd najwyższy (nam_org_institution) --- 122
+	sąd rejonowy (nam_org_institution) --- 117
+	skarb państwo (nam_org_institution) --- 94
+	sąd (nam_org_institution) --- 56
+	krajowy izba odwoławczy (nam_org_institution) --- 54
+	prezes krajowy izba odwoławczy (nam_org_institution) --- 42
+	konsorcjum Blue Brain (nam_org_organization) --- 39
+	minister sprawiedliwość (nam_org_institution) --- 37
+nam_pro:
+	dziennik . u . (nam_pro_media_periodic) --- 133
+	Dzieje_(Apostolskie) . u . (nam_pro_media_periodic) --- 41
+	prawo zamówienie publiczny (nam_pro_title_document) --- 25
+	dziennik urzędowy (nam_pro_media_periodic) --- 12
+	kodeks cywilny (nam_pro_title_document) --- 10
+	ustawa o ubezpieczenie obowiązkowy (nam_pro_title_document) --- 10
+	rozporządzenie minister sprawiedliwość (nam_pro_title_document) --- 9
+	rozporządzenie minister sprawiedliwość z dzień 28 (nam_pro_title_document) --- 7
+	ustawa o emerytura (nam_pro_title_document) --- 6
+	ustawa z dzień 22 maj 2003 r . o ubezpieczenie obowiązkowy (nam_pro_title_document) --- 5
+nam_loc:
+	Warszawa (nam_loc_gpe_city) --- 53
+	Polska (nam_loc_gpe_country) --- 21
+	towarzystwo (nam_loc_gpe_city) --- 17
+	Radom (nam_loc_gpe_city) --- 16
+	Krak (nam_loc_gpe_city) --- 15
+	Wrocław (nam_loc_gpe_city) --- 14
+	śródmieście (nam_loc_gpe_city) --- 12
+	Katowice (nam_loc_gpe_city) --- 12
+	Szczecin (nam_loc_gpe_city) --- 11
+	Wałbrzych (nam_loc_gpe_city) --- 9
+nam_num:
+	1 (nam_num_house) --- 7
+	6 (nam_num_house) --- 6
+	130 (nam_num_house) --- 3
+	43 (nam_num_house) --- 3
+	8 (nam_num_house) --- 3
+	25 (nam_num_house) --- 3
+	112 (nam_num_phone) --- 2
+	120 (nam_num_house) --- 2
+	2 (nam_num_house) --- 2
+	11 (nam_num_house) --- 1
+nam_fac:
+	Klimczak (nam_fac_road) --- 5
+	konsorcjum Blue Brain (nam_fac_goe) --- 5
+	stadion śląski (nam_fac_goe) --- 5
+	Kaczkowski (nam_fac_road) --- 4
+	spółdzielnia mieszkaniowy (nam_fac_goe) --- 4
+	rodzina hiszpański (nam_fac_road) --- 3
+	malborski (nam_fac_road) --- 3
+	wapienny (nam_fac_road) --- 3
+	Stefowa (nam_fac_road) --- 3
+	Pawliczka (nam_fac_road) --- 3
+nam_eve:
+	Jur - Anda (nam_eve_human) --- 4
+	M (nam_eve_human) --- 3
+	ogólny warunek ubezpieczenie (nam_eve_human) --- 2
+	rejestr stowarzyszenie (nam_eve_human_sport) --- 1
+	euro (nam_eve_human_sport) --- 1
+	Poznańskie rower miejski (nam_eve_human) --- 1
+	gmin Korfantów (nam_eve_human) --- 1
+	święto wielkanocny (nam_eve_human_holiday) --- 1
+	PKN Orlen (nam_eve_human) --- 1
+	i wojna światowy (nam_eve_other) --- 1
+nam_adj:
+	hiszpański (nam_adj_country) --- 1
+	europejski (nam_adj_other) --- 1
+	polski (nam_adj_country) --- 1
+	unijny (nam_adj_other) --- 1
+	izraelski (nam_adj_country) --- 1
